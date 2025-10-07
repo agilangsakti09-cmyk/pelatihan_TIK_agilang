@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #1B1E23; /* Warna teks utama (Duron Black Of Night) */
 }
+
 .kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
